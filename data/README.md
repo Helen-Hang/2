@@ -9,6 +9,17 @@
 
 ```
 
+# preprocessing data：
+```
+
+> DocRED: https://drive.google.com/drive/folders/1Ovj7PWpi3MLzGawhrpqiRcjVTpHdZfup
+
+> CDR: https://drive.google.com/drive/folders/1VXR1Dmxst4BtOKbYWehhkUTV__5UoHHQ
+
+> GDA: https://drive.google.com/drive/folders/1eNLLJYh9vq8TAGZSNzkpD8h2ddmh3rda
+
+```
+
 # Data Format:
 ```
 {
@@ -38,3 +49,9 @@
               ]
 }
 ```
+
+
+
+
+
+
