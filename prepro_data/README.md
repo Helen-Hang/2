@@ -1,8 +1,10 @@
 Original Data:
 
-https://github.com/thunlp/DocRED
-https://biocreative.bioinformatics.udel.edu/media/store/files/2016/CDR\_Data.zip
-https://bitbucket.org/alexwuhkucs/\mbox{gda-extraction}/get/fd4a7409365e.zip
+DocRED: https://github.com/thunlp/DocRED
+
+CDR: https://biocreative.bioinformatics.udel.edu/media/store/files/2016/CDR\_Data.zip
+
+GDA: https://bitbucket.org/alexwuhkucs/\mbox{gda-extraction}/get/fd4a7409365e.zip
 
 
 Data Format:
