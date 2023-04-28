@@ -1,3 +1,9 @@
+# Requirements and Installation
+First, install the requirements with the following command:
+```
+pip install -r requirements.txt
+```
+
 # Original Data:
 ```
 
