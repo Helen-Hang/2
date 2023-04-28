@@ -9,7 +9,7 @@
 
 ```
 
-# preprocessing data：
+# Preprocessing data：
 ```
 
 > DocRED: https://drive.google.com/drive/folders/1Ovj7PWpi3MLzGawhrpqiRcjVTpHdZfup
@@ -49,9 +49,3 @@
               ]
 }
 ```
-
-
-
-
-
-
